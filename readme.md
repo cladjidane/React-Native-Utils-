@@ -28,6 +28,8 @@ React Native Apps est une vitrine d'applications React Native. Ces applications 
 
 * [react-native-animated-ruler] (https://github.com/MohamadKh75/react-native-animated-ruler)<br/>
 Truc pour mesurer
+* [triangle] (https://github.com/react-native-toolkit/triangle)<br/>
+Cette bibliothèque vise à fournir une API facile pour créer tous les triangles possibles en se basant sur le générateur de triangles CSS
 
 ### Animation
 
