@@ -57,3 +57,9 @@ Référentiel d'apps
 - [phasmophobia-companion](https://github.com/Redseb/phasmophobia-companion)
   Une application non officielle qui accompagne l'incroyable jeu d'horreur de Kinetic Games, Phasmophobia.
   A décortiquer :)
+
+# Les docs à lire !
+
+## Images
+
+- Gestion des images - https://www.akashmittal.com/react-native-image-resizemode/
