@@ -33,14 +33,14 @@ Référentiel d'apps
 
 ### Vracs
 
-- [react-native-animated-ruler] (https://github.com/MohamadKh75/react-native-animated-ruler)<br/>
+- [react-native-animated-ruler](https://github.com/MohamadKh75/react-native-animated-ruler)<br/>
   Truc pour mesurer
 - [triangle] (https://github.com/react-native-toolkit/triangle)<br/>
   Cette bibliothèque vise à fournir une API facile pour créer tous les triangles possibles en se basant sur le générateur de triangles CSS
 
 ### Animation
 
-- [react-native-reanimated] (https://github.com/software-mansion/react-native-reanimated)<br/>
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)<br/>
   React Native Reanimated fournit une abstraction de bas niveau plus complète pour l'API de la bibliothèque Animated et permet donc une plus grande flexibilité, notamment en ce qui concerne les interactions basées sur des gestes.
 - [FluidTransitions] (https://github.com/software-mansion/react-native-reanimated)<br/>
   Ce projet vise à mettre en œuvre un ensemble de constructions simples mais puissantes pour créer des transitions fluides entre les éléments lors de la navigation avec React Navigation.
@@ -48,6 +48,7 @@ Référentiel d'apps
 ### Formulaire
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  Bibliothèque de formulaires performante, flexible et extensible avec une validation facile à utiliser pour les applications React
   - https://react-hook-form.com/get-started/
   - https://www.williamkurniawan.com/blog/building-a-simple-login-form-in-react-native-using-react-hook-form
 
