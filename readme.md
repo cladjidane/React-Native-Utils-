@@ -24,6 +24,13 @@ Référentiel d'apps
 - [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) <br/>
   React Native Apps est une vitrine d'applications React Native. Ces applications n'ont pas besoin d'être publiées sur l'App Store ou autre, elles sont simplement là pour présenter le travail de la communauté et pour aider les développeurs de React Native à voir comment les autres construisent et structurent leurs applications.
 
+### Boilerplate
+
+- [react-native-with-moxy](https://github.com/moxystudio/react-native-with-moxy)
+  MOXY pour accélérer la mise en place de nouvelles applications mobiles React Native
+  - https://react-native-with.moxy.tech/docs/welcome/what-is-this/
+  - https://dev.to/moxystudio/react-native-with-moxy-2el
+
 ### Vracs
 
 - [react-native-animated-ruler] (https://github.com/MohamadKh75/react-native-animated-ruler)<br/>
@@ -37,6 +44,12 @@ Référentiel d'apps
   React Native Reanimated fournit une abstraction de bas niveau plus complète pour l'API de la bibliothèque Animated et permet donc une plus grande flexibilité, notamment en ce qui concerne les interactions basées sur des gestes.
 - [FluidTransitions] (https://github.com/software-mansion/react-native-reanimated)<br/>
   Ce projet vise à mettre en œuvre un ensemble de constructions simples mais puissantes pour créer des transitions fluides entre les éléments lors de la navigation avec React Navigation.
+
+### Formulaire
+
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form)
+  - https://react-hook-form.com/get-started/
+  - https://www.williamkurniawan.com/blog/building-a-simple-login-form-in-react-native-using-react-hook-form
 
 ### Jeux
 
